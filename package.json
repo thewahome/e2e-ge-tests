@@ -1,0 +1,21 @@
+{
+  "name": "e2e-ge-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thewahome/e2e-ge-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thewahome/e2e-ge-tests/issues"
+  },
+  "homepage": "https://github.com/thewahome/e2e-ge-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.26.1"
+  }
+}
